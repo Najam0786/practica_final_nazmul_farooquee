@@ -22,14 +22,20 @@
 │   ├── ej2_metricas_regresion.txt
 │   ├── ej2_coeficientes.png
 │   ├── ej2_residuos.png
+│   ├── ej2_pred_vs_actual.png
+│   ├── ej2_residuals.png
 │   ├── ej2_matriz_confusion.png
 │   ├── ej3_coeficientes.txt
 │   ├── ej3_metricas.txt
 │   ├── ej3_predicciones.png
+│   ├── ej3_pred_vs_actual.png
 │   ├── ej4_serie_original.png
+│   ├── ej4_serie_raw.png
 │   ├── ej4_descomposicion.png
+│   ├── ej4_tendencia.png
 │   ├── ej4_acf_pacf.png
 │   ├── ej4_histograma_ruido.png
+│   ├── ej4_residuos_hist.png
 │   └── ej4_analisis.txt
 ├── ejercicio1_descriptivo.py      # Análisis estadístico descriptivo
 ├── ejercicio2_inferencia.py       # Regresión lineal con scikit-learn
