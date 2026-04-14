@@ -60,7 +60,7 @@ Todos los scripts generan sus ficheros de salida en la carpeta `output/`.
 
 | Ejercicio | Descripción | Métricas clave |
 |-----------|-------------|----------------|
-| 1 | Análisis descriptivo, outliers, correlaciones | Skewness=1.37, Top-3 r≈0.90/0.88/0.85 |
-| 2 | Regresión lineal (scikit-learn) | MAE=0.308, RMSE=0.481, R²=0.889 |
-| 3 | OLS desde cero (NumPy) | MAE=1.167, RMSE=1.424, R²=0.726 |
-| 4 | Descomposición serie temporal | ADF p≈0, Normalidad p=0.20 |
+| 1 | Análisis Estadístico Descriptivo | Skewness=1.37, Top-3 r≈0.90/0.88/0.85 |
+| 2 | Inferencia con Scikit-Learn | MAE=0.308, RMSE=0.481, R²=0.889 |
+| 3 | Regresión Lineal Múltiple en NumPy | MAE=1.167, RMSE=1.424, R²=0.726 |
+| 4 | Análisis de Series Temporales | ADF p≈0, Normalidad p=0.20 |
