@@ -1,0 +1,17 @@
+Deteccion de Outliers — Metodo IQR (1.5 x IQR)
+=======================================================
+CO(GT): 215 outliers  (IQR bounds: [-1.60, 5.60])
+PT08.S1(CO): 119 outliers  (IQR bounds: [530.00, 1658.00])
+C6H6(GT): 212 outliers  (IQR bounds: [-9.00, 27.80])
+PT08.S2(NMHC): 68 outliers  (IQR bounds: [204.88, 1663.88])
+NOx(GT): 464 outliers  (IQR bounds: [-221.50, 654.50])
+PT08.S3(NOx): 226 outliers  (IQR bounds: [219.00, 1387.00])
+NO2(GT): 145 outliers  (IQR bounds: [-6.50, 229.50])
+PT08.S4(NO2): 80 outliers  (IQR bounds: [549.62, 2324.62])
+PT08.S5(O3): 90 outliers  (IQR bounds: [-33.00, 2079.00])
+T: 15 outliers  (IQR bounds: [-6.50, 41.50])
+RH: 0 outliers  (IQR bounds: [-2.20, 100.20])
+AH: 46 outliers  (IQR bounds: [-0.07, 2.02])
+
+Decision: outliers RETAINED (not capped or removed).
+They represent real environmental extremes; removing them would distort the data.

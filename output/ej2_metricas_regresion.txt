@@ -1,0 +1,5 @@
+Metricas — Regresion Lineal (test set)
+=============================================
+MAE:  0.3081
+RMSE: 0.4814
+R2:   0.8888

@@ -1,0 +1,10 @@
+Metricas del modelo — test set sintetico (seed=42)
+==================================================
+MAE:  1.1666
+RMSE: 1.4241
+R2:   0.7261
+
+Referencia del profesor:
+  MAE  aprox 1.20 (+/-0.20)
+  RMSE aprox 1.50 (+/-0.20)
+  R2   aprox 0.80 (+/-0.05)

@@ -1,0 +1,28 @@
+Analisis de la Serie Temporal Sintetica
+=======================================================
+
+Periodo analizado: 2018-01-01 a 2023-12-30
+Total observaciones: 2190
+
+TENDENCIA
+  Pendiente lineal: 0.0478 unidades/dia
+  Cambio total: 104.8 unidades en 6 anios
+
+ESTACIONALIDAD
+  Periodo: 365 dias (anual)
+  Amplitud: 34.3839 unidades
+
+RESIDUO
+  Media:     -0.017392
+  Std dev:   2.6926
+  Asimetria: -0.0827
+  Curtosis:  0.0863
+
+TEST DE NORMALIDAD (D'Agostino-Pearson)
+  p-value: 0.199907
+  -> No se rechaza normalidad (ruido aproximadamente gaussiano)
+
+TEST ADF (Dickey-Fuller Aumentado)
+  Estadistico: -46.2813
+  p-value:     0.000000
+  -> Residuo ESTACIONARIO (p < 0.05)

@@ -1,0 +1,6 @@
+Coeficientes ajustados vs. valores reales
+==================================================
+beta_0 (intercepto): real=5.0, ajustado=5.0552
+beta_1: real=2.0, ajustado=1.9759
+beta_2: real=-1.0, ajustado=-1.0690
+beta_3: real=0.5, ajustado=0.3744
